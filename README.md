@@ -1,11 +1,10 @@
-## 🚀 About Me
-I'm a Junior Frontend developer
+## about me
+i am an ambivert with passion in coding and creating things.
+have couple years of exp in semi-active web developing, and currrently improving react+ts with vue and next on the side
+looking forward to learning more about other directions of my love/hate field called comp sci - highly interested in starting: bigdata, ml and gamedev (i mean who doesn't want to create a shitty game of their own?!) 
 
-Who is trying to find a job
+who is also trying to get a job
+feel free to contact me
 
-If you like my work feel free to contact me
-
-- Email: *recrentic@gmail.com*
-- Telegram: *@akeraminai*
-- Discord: *s4i*
-- Instagram: *@akeraminai_sai*
+- email: recrentic@gmail.com
+- telegram: *@akeraminai*
